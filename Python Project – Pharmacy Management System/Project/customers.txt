@@ -1,0 +1,2 @@
+ameer,059787878,PurchaseHistory: [2025-06-10|panadol|500.0]
+Ahmad,0594787878,PurchaseHistory: [2025-06-17|panadol|50.0]

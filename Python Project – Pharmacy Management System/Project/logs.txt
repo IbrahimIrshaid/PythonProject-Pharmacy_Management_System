@@ -1,0 +1,29 @@
+2025-06-10 23:39:48,admin,admin,User logged in
+2025-06-10 23:40:22,admin,admin,Added medicine: panadol
+2025-06-10 23:40:47,admin,admin,Application exited
+2025-06-10 23:41:30,admin,admin,User logged in
+2025-06-10 23:41:45,admin,admin,Application exited
+2025-06-10 23:44:24,admin,admin,User logged in
+2025-06-10 23:44:47,admin,admin,Processed sale: panadol to ameer
+2025-06-10 23:45:09,admin,admin,Generated profit analysis for 2025-01-01 to 2025-12-01
+2025-06-10 23:45:29,admin,admin,Generated monthly sales trends analysis
+2025-06-10 23:45:38,admin,admin,Application exited
+2025-06-10 23:45:49,IbrahimIrshaid,pharmacist,User logged in
+2025-06-10 23:45:56,IbrahimIrshaid,pharmacist,Application exited
+2025-06-17 10:53:51,admin,admin,User logged in
+2025-06-17 10:54:04,admin,admin,Viewed inventory
+2025-06-17 10:55:01,admin,admin,Added medicine: Aspirin
+2025-06-17 10:55:02,admin,admin,Viewed inventory
+2025-06-17 10:56:10,admin,admin,Application exited
+2025-06-17 11:07:37,admin,admin,User logged in
+2025-06-17 11:08:40,admin,admin,Viewed inventory
+2025-06-17 11:09:30,admin,admin,Updated medicine: panadol
+2025-06-17 11:09:31,admin,admin,Viewed inventory
+2025-06-17 11:10:10,admin,admin,Processed sale: panadol to Ahmad
+2025-06-17 11:10:58,admin,admin,Generated profit analysis for 2025-01-02 to 2025-12-01
+2025-06-17 11:11:14,admin,admin,Viewed inventory
+2025-06-17 11:12:06,admin,admin,Generated sales report for 2025-01-01 to 2025-12-01
+2025-06-17 11:13:03,admin,admin,Generated monthly sales trends analysis
+2025-06-17 11:13:47,admin,admin,Viewed system logs
+2025-06-17 11:14:54,admin,admin,Viewed system logs
+2025-06-17 11:15:22,admin,admin,User logged out

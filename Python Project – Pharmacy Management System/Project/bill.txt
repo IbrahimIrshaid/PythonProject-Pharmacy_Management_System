@@ -1,0 +1,5 @@
+Customer Name: Ahmad                Date: 2025-06-17
+
+Medicine Name: panadol              Quantity: 5          UnitPrice: 10.0       TotalPrice: 50.0      
+
+Total Bill: 50.0

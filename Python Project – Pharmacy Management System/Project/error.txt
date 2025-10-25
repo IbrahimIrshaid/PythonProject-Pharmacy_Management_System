@@ -1,0 +1,5 @@
+Tried to add existing medicine: PaNadol at 2025-06-10 22:36:02
+Insufficient stock for panadol at 2025-06-10 22:37:39
+Invalid date format at 2025-06-10 22:47:06
+Tried to update non-existent medicine: panadol at 2025-06-10 23:39:57
+Insufficient stock for panadol at 2025-06-17 11:09:57
